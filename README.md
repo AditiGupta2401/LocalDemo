@@ -1,2 +1,2 @@
-This is my new repo.
+This is new repo.
 Author: Aditi Gupta
